@@ -12,7 +12,7 @@
 </h1>
 <b> About me:</b>
 </br>
-Hi, I'm Manas having an experience of 7+ years in iOS Develpment,
+Hi, I'm Manas having an experience of 9+ years in iOS Develpment,
 </br>
 </br>
 
